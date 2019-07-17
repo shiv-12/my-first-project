@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1563137640 source:d:\my project\atm extra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+
+1563134932 source:d:\my project\atm extra\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1563134932 d:\my project\atm extra\conio2.h
+	<conio.h>
+	<windows.h>
+
